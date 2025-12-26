@@ -90,7 +90,10 @@ export default function Chat() {
           placeholder="Ask about the weather..."
         />
         <button type="submit">Send</button>
+<<<<<<< HEAD
         <h1> HELLO....</h1>
+=======
+>>>>>>> f9390a93855913ae9354e303363af99ef99bfa2c
       </form>
     </>
   );
